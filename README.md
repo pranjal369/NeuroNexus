@@ -50,3 +50,19 @@
 
 ## After Approving/Decline it shows on the Applicant's Side
 ![Screenshot 2023-11-09 162816](https://github.com/pranjal369/NeuroNexus/assets/78440907/fad04a6f-3ca6-42f4-9a80-f371935cbd4a)
+
+## Landing_page - Task-2
+![Screenshot 2023-11-16 014403](https://github.com/pranjal369/NeuroNexus/assets/78440907/36ca5238-9cd3-412d-9352-fae71edd572f)
+
+
+![Screenshot 2023-11-16 014110](https://github.com/pranjal369/NeuroNexus/assets/78440907/cbaeab4c-1148-480f-8b05-ff7ef3095478)
+
+
+![Screenshot 2023-11-16 014140](https://github.com/pranjal369/NeuroNexus/assets/78440907/63d9f0ff-35e2-47fa-8b30-b9c018606f7c)
+
+
+![Screenshot 2023-11-16 014213](https://github.com/pranjal369/NeuroNexus/assets/78440907/178ae3f8-af37-43f3-b76b-0683374652aa)
+
+
+
+
